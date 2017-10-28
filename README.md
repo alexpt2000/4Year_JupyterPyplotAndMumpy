@@ -36,7 +36,7 @@ At folder launch with:
     $ jupyter notebook
 
 
-
+--------------------------------------------------------------------------------------------
 
 # Problem set: Jupyter, pyplot and numpy
 
