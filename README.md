@@ -70,4 +70,6 @@ At folder launch with:
 
 Enter a URL in the address bar of your browser,
 
-```http://localhost:8888/```
+```
+http://localhost:8888/
+```
